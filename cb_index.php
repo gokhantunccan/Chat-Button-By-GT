@@ -3,7 +3,7 @@
 Plugin Name: Chat Button By GT
 Plugin URI: https://gtestcenter.cf
 Description: Chat Button By GT Açıklaması
-Version: 1.2
+Version: 1.3
 Author: GT
 Author URI: https://gtestcenter.cf
 License: GNU
