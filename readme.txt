@@ -32,7 +32,7 @@ Yes.
 
 == Screenshots ==
 
-1. With this plugin, you can add a chat button to your website.
+[https://via.placeholder.com/350x150  Description for the first screenshot]
 2. You can customize the chat button you added.
 
 == Changelog ==
