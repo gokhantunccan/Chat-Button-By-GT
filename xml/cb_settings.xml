@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<cb_settings>
+<cb_mainbutton_status>1</cb_mainbutton_status>
+<cb_mainbutton_tooltip>Hello!</cb_mainbutton_tooltip>
+<cb_mainbutton_tooltip_bgcolor>000000</cb_mainbutton_tooltip_bgcolor>
+<cb_mainbutton_tooltip_txtcolor>FFFFFF</cb_mainbutton_tooltip_txtcolor>
+<cb_mainbutton_position>left</cb_mainbutton_position>
+<cb_mainbutton_color>800080</cb_mainbutton_color>
+<cb_mainbutton_iconcolor>FFFFFF</cb_mainbutton_iconcolor>
+<cb_mainbutton_size>55</cb_mainbutton_size>
+<cb_mainbutton_iconsize>25</cb_mainbutton_iconsize>
+<cb_mainbutton_vertical_align>60</cb_mainbutton_vertical_align>
+<cb_mainbutton_margin_top>1</cb_mainbutton_margin_top>
+<cb_mainbutton_container_height>45</cb_mainbutton_container_height>
+</cb_settings>
