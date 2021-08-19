@@ -32,8 +32,8 @@ Yes.
 
 == Screenshots ==
 
-[http://gtestcenter.cf/wp-content/uploads/2021/08/screenshot-1.png 1.With this plugin, you can add a chat button to your website.]
-[http://gtestcenter.cf/wp-content/uploads/2021/08/screenshot-2.png 2.You can customize the chat button you added.]
+1. With this plugin, you can add a chat button to your website.
+2. You can customize the chat button you added.
 
 == Changelog ==
 
