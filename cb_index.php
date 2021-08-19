@@ -3,7 +3,7 @@
 Plugin Name: Chat Button By GT
 Plugin URI: https://gtestcenter.cf
 Description: Chat Button By GT Açıklaması
-Version: 1.0
+Version: 1.1
 Author: GT
 Author URI: https://gtestcenter.cf
 License: GNU
@@ -20,7 +20,7 @@ $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
 );
 
 //Set the branch that contains the stable release.
-$myUpdateChecker->setBranch('master');
+$myUpdateChecker->setBranch('main');
 
 
 //---Require_Once-------------------------------------------------------------------------
